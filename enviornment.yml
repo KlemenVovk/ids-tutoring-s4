@@ -1,0 +1,11 @@
+name: ds
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- matplotlib
+- pandas
+- python
+- requests
+- seaborn
+
